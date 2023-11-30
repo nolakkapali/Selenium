@@ -10,5 +10,5 @@ Browser: FireFox
 
 Programming Language:Java
 
-Platform: Eclipse
+IDE: Eclipse
 
